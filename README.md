@@ -58,8 +58,25 @@ Student/Learner : "I want to learn Machine Learning in 30 days"
 ## Tools, Libraries, and Frameworks Used
 
 • LangChain – Agent memory and prompt chaining
+
 • CrewAI or AutoGen – Multi-agent orchestration
+
 • OpenAI API (GPT-3.5/40-mini) – LLM for content & quiz generation
+
+## LLM Selection
+
+Ideal LLM
+
+GPT-4 (via OpenAI API) -- Best for structured planning, summarizing and question generation
+
+Free-Tier 
+
+GPT-3.5 and 4o-mini (via platform.openai.com) : Excellent for summarization and quiz generation, cost-effective
+
+Open-Source Option
+
+Mistral 7B Instruct or Phi-2 or DeepSeek-r1 (Hugging Face) : Good fallback for content generation with cost-free hosting
+
 
 
 
