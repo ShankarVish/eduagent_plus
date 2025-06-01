@@ -25,6 +25,7 @@ EduAgent_Plus is an intelligent study assistant that personalizes learning exper
 	•	Get motivational feedback and learning tips.
 
 Agent Name : Role
+
 🗂️ Curriculum Planner Agent
 Takes user goals (e.g., “Finish Python in 2 weeks”) and builds a topic-wise plan.
 
