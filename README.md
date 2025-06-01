@@ -55,6 +55,16 @@ Student/Learner : "I want to learn Machine Learning in 30 days"
 → Motivational Agent encourages user or suggests revision if needed  
 
 
+## Tools, Libraries, and Frameworks Used
+
+• LangChain – Agent memory and prompt chaining
+• CrewAI or AutoGen – Multi-agent orchestration
+• OpenAI API (GPT-3.5/40-mini) – LLM for content & quiz generation
+
+
+
+
+
 
 
 
